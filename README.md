@@ -2,7 +2,7 @@
 🎓 B.Tech Graduate | 🛡️ Cybersecurity Enthusiast | 🔧 Diploma in hardware
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%7C+Hardware+Learner;Trainer+%7C+Red+Teamer+%7C+R%26D+@+Offenso TVM;TryHackMe+%7C+HTB+Active+Learner;Always+Learning+New+Tools+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%7C+Hardware+Learner;Trainer+%7C+Red+Teamer+%7C+R%26D+@+Offenso;TryHackMe+%7C+HTB+Active+Learner;Always+Learning+New+Tools+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
